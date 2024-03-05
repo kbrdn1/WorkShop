@@ -1,0 +1,41 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ff12b05_002D557a_002D48b8_002Dadcc_002Dd68ae8417e3b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/kylian/RiderProjects/BDD Snake/Workshop" Presentation="&amp;lt;Workshop&amp;gt;" /&gt;
+    &lt;ProjectFile&gt;4E64A5E8-83B2-4B0A-8C66-02B4B2B9BA7F/d:Tests/d:ConfigTests/f:ConfigReaderTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8aff48bb_002D5521_002D46a0_002Da94a_002D8e00289c7168/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/kylian/RiderProjects/BDD Snake/Workshop" Presentation="&amp;lt;Workshop&amp;gt;" /&gt;
+    &lt;ProjectFile&gt;4E64A5E8-83B2-4B0A-8C66-02B4B2B9BA7F/d:Tests/d:ConfigTests/f:ConfigReaderTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=97b93eca_002D3357_002D490b_002D845c_002Dd40115855922/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/kylian/RiderProjects/BDD Snake/Workshop" Presentation="&amp;lt;Workshop&amp;gt;" /&gt;
+    &lt;ProjectFile&gt;4E64A5E8-83B2-4B0A-8C66-02B4B2B9BA7F/d:Tests/d:ConfigTests/f:ConfigReaderTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=98bed22e_002D5d14_002D4071_002D9b95_002D6b497c9c3d26/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/kylian/RiderProjects/BDD Snake/Workshop" Presentation="&amp;lt;Workshop&amp;gt;" /&gt;
+    &lt;ProjectFile&gt;4E64A5E8-83B2-4B0A-8C66-02B4B2B9BA7F/d:Tests/d:ConfigTests/f:ConfigReaderTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ab6584e0_002D97e9_002D4677_002Db077_002Dee325e7f133f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/kylian/RiderProjects/BDD Snake/Workshop" Presentation="&amp;lt;Workshop&amp;gt;" /&gt;
+    &lt;ProjectFile&gt;4E64A5E8-83B2-4B0A-8C66-02B4B2B9BA7F/d:Tests/d:ConfigTests/f:ConfigReaderTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d949fe23_002Da664_002D435b_002Daa76_002D87493f799f8c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;Project Location="/Users/kylian/RiderProjects/BDD Snake/Workshop" Presentation="&amp;lt;Workshop&amp;gt;" /&gt;
+    &lt;ProjectFile&gt;4E64A5E8-83B2-4B0A-8C66-02B4B2B9BA7F/d:Tests/d:ConfigTests/f:ConfigReaderTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

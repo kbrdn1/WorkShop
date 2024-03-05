@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop", "Workshop\Workshop.csproj", "{A69CD247-F655-4412-A55C-5F497EB174AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopTest", "..\Workshop\WorkshopTest\WorkshopTest.csproj", "{4E64A5E8-83B2-4B0A-8C66-02B4B2B9BA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A69CD247-F655-4412-A55C-5F497EB174AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69CD247-F655-4412-A55C-5F497EB174AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69CD247-F655-4412-A55C-5F497EB174AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69CD247-F655-4412-A55C-5F497EB174AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E64A5E8-83B2-4B0A-8C66-02B4B2B9BA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E64A5E8-83B2-4B0A-8C66-02B4B2B9BA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E64A5E8-83B2-4B0A-8C66-02B4B2B9BA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E64A5E8-83B2-4B0A-8C66-02B4B2B9BA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
